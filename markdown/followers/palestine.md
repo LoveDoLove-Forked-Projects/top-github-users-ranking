@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestine">
 </a>
 
-The `number of followers` of users in Palestine on `2026/4/15 4:11 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
+The `number of followers` of users in Palestine on `2026/4/15 4:41 PM UTC`. This list contains users from `Palestine` and cities `Gaza` `Khan-yunis` `Jabalia ` `Hebron` `Nablus`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -3396,19 +3396,6 @@ There are `983 users`  in Palestine. You need at least `8 followers` to be on th
 	<tr>
 		<td>254</td>
 		<td>
-			<a href="https://github.com/abdalkarimnael">
-				<img src="https://avatars.githubusercontent.com/u/162728446?s=72&u=7ad71d2c8f1a6a8eb3143ed18aca035a89237e90&v=4" width="24" alt="Avatar of abdalkarimnael"> abdalkarimnael
-			</a><br/>
-			Abdalkarim Barghouthi
-		</td>
-		<td>Birzeit University </td>
-		<td>No Twitter Username</td>
-		<td>Palestine</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>255</td>
-		<td>
 			<a href="https://github.com/Sohadwd">
 				<img src="https://avatars.githubusercontent.com/u/28750873?s=72&u=d934d9a454138b0e786e1453a772894bf7d44596&v=4" width="24" alt="Avatar of Sohadwd"> Sohadwd
 			</a><br/>
@@ -3420,7 +3407,7 @@ There are `983 users`  in Palestine. You need at least `8 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/rhmnm">
 				<img src="https://avatars.githubusercontent.com/u/28734384?s=72&u=bfb48c4f0a4e040a4099dcab07e8212140d358f8&v=4" width="24" alt="Avatar of rhmnm"> rhmnm
@@ -3431,6 +3418,19 @@ There are `983 users`  in Palestine. You need at least `8 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Palestine</td>
 		<td>30</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/abdalkarimnael">
+				<img src="https://avatars.githubusercontent.com/u/162728446?s=72&u=7ad71d2c8f1a6a8eb3143ed18aca035a89237e90&v=4" width="24" alt="Avatar of abdalkarimnael"> abdalkarimnael
+			</a><br/>
+			Abdalkarim Barghouthi
+		</td>
+		<td>Birzeit University </td>
+		<td>No Twitter Username</td>
+		<td>Palestine</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>257</td>
