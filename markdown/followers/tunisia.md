@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `number of followers` of users in Tunisia on `2026/4/17 11:32 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `number of followers` of users in Tunisia on `2026/4/17 11:45 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -4852,6 +4852,19 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>366</td>
 		<td>
+			<a href="https://github.com/TLILIFIRAS">
+				<img src="https://avatars.githubusercontent.com/u/73702926?s=72&u=5ef9b2f55b72e8c49b70d1e9d2d5345a37d4889a&v=4" width="24" alt="Avatar of TLILIFIRAS"> TLILIFIRAS
+			</a><br/>
+			Firas Tlili
+		</td>
+		<td>Firastlili </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia </td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>367</td>
+		<td>
 			<a href="https://github.com/bhstalel">
 				<img src="https://avatars.githubusercontent.com/u/44790336?s=72&u=d544bd2fdf6f4b48a2cc65498ce14384e209a052&v=4" width="24" alt="Avatar of bhstalel"> bhstalel
 			</a><br/>
@@ -4863,7 +4876,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/duawp">
 				<img src="https://avatars.githubusercontent.com/u/168550865?s=72&u=3b2ed86a7f44df2fdb3f69470824ac2512198834&v=4" width="24" alt="Avatar of duawp"> duawp
@@ -4876,7 +4889,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/Ilefrajhi">
 				<img src="https://avatars.githubusercontent.com/u/123025307?s=72&u=ab8b6c589ee59e519dd7709c1e19d253db0d4ffc&v=4" width="24" alt="Avatar of Ilefrajhi"> Ilefrajhi
@@ -4889,7 +4902,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/Ganryuu">
 				<img src="https://avatars.githubusercontent.com/u/63643948?s=72&u=00635d479234751f0719abd0d2c1d236067f6f2d&v=4" width="24" alt="Avatar of Ganryuu"> Ganryuu
@@ -4902,7 +4915,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/fedi-nabli">
 				<img src="https://avatars.githubusercontent.com/u/64886531?s=72&u=058bc0d75f86d6d56cdedd637b9b1c26ff72433f&v=4" width="24" alt="Avatar of fedi-nabli"> fedi-nabli
@@ -4915,7 +4928,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/tarek-bochkati">
 				<img src="https://avatars.githubusercontent.com/u/5048002?s=72&u=6efac9383bf80a4543950a66ecc1da70a97b9427&v=4" width="24" alt="Avatar of tarek-bochkati"> tarek-bochkati
@@ -4925,19 +4938,6 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>Stmicroelectronics </td>
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/TLILIFIRAS">
-				<img src="https://avatars.githubusercontent.com/u/73702926?s=72&u=5ef9b2f55b72e8c49b70d1e9d2d5345a37d4889a&v=4" width="24" alt="Avatar of TLILIFIRAS"> TLILIFIRAS
-			</a><br/>
-			Firas Tlili
-		</td>
-		<td>Firastlili </td>
-		<td>No Twitter Username</td>
-		<td>Tunisia </td>
 		<td>38</td>
 	</tr>
 	<tr>

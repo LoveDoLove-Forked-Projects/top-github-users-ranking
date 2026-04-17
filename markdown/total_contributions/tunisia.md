@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` and `private contributions` by users in Tunisia on `2026/4/17 11:32 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` and `private contributions` by users in Tunisia on `2026/4/17 11:45 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -2622,8 +2622,8 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>@kubermatic  </td>
 		<td><a href="https://twitter.com/Med_Rafraf">Med_Rafraf</a></td>
 		<td>Tunis, Tunisia</td>
-		<td>476</td>
-		<td>769</td>
+		<td>478</td>
+		<td>771</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -4079,7 +4079,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tunisia</td>
 		<td>355</td>
-		<td>382</td>
+		<td>383</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -8256,6 +8256,20 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>583</td>
 		<td>
+			<a href="https://github.com/nidhaldring">
+				<img src="https://avatars.githubusercontent.com/u/36518218?s=72&u=41f271ccd22fe2c6ae9a3cf120924c1699f80720&v=4" width="24" alt="Avatar of nidhaldring"> nidhaldring
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>tunisia</td>
+		<td>23</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
 			<a href="https://github.com/imenbkr">
 				<img src="https://avatars.githubusercontent.com/u/104791884?s=72&u=8e0fafa5d2753e29989f869d626f56a445ab84b8&v=4" width="24" alt="Avatar of imenbkr"> imenbkr
 			</a><br/>
@@ -8268,7 +8282,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/mohammedtoumi007">
 				<img src="https://avatars.githubusercontent.com/u/55878755?s=72&u=e04445362960a71b74c0dd6fb954a1ad292bdf99&v=4" width="24" alt="Avatar of mohammedtoumi007"> mohammedtoumi007
@@ -8279,20 +8293,6 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Sfax, Tunisia</td>
 		<td>39</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/nidhaldring">
-				<img src="https://avatars.githubusercontent.com/u/36518218?s=72&u=41f271ccd22fe2c6ae9a3cf120924c1699f80720&v=4" width="24" alt="Avatar of nidhaldring"> nidhaldring
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>tunisia</td>
-		<td>22</td>
 		<td>39</td>
 	</tr>
 	<tr>
