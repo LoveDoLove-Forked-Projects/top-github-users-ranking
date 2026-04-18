@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `number of followers` of users in Venezuela on `2026/4/18 4:40 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `number of followers` of users in Venezuela on `2026/4/18 5:05 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LuisDGonzalezD1">LuisDGonzalezD1</a></td>
 		<td>Venezuela</td>
-		<td>444</td>
+		<td>445</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -336,7 +336,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>177</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -765,7 +765,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Portuguesa - Venezuela</td>
-		<td>89</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -2018,6 +2018,19 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 	<tr>
 		<td>148</td>
 		<td>
+			<a href="https://github.com/yulicwan">
+				<img src="https://avatars.githubusercontent.com/u/20564637?s=72&u=ef24b1138222364060f1e9e3be18394923c5b7bd&v=4" width="24" alt="Avatar of yulicwan"> yulicwan
+			</a><br/>
+			Yuli 
+		</td>
+		<td>Cletec </td>
+		<td>No Twitter Username</td>
+		<td>Caracas</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a href="https://github.com/juanevillam">
 				<img src="https://avatars.githubusercontent.com/u/66635973?s=72&u=c78a51070ff7268d979613ec038599f39b44a086&v=4" width="24" alt="Avatar of juanevillam"> juanevillam
 			</a><br/>
@@ -2029,7 +2042,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/phanorcoll">
 				<img src="https://avatars.githubusercontent.com/u/195602?s=72&u=39359afa2e9ac842fc406b462dd9effc82e35b95&v=4" width="24" alt="Avatar of phanorcoll"> phanorcoll
@@ -2042,7 +2055,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/stevepinero">
 				<img src="https://avatars.githubusercontent.com/u/1239174?s=72&u=406f60f0400e94cce338694193075e75d54d501a&v=4" width="24" alt="Avatar of stevepinero"> stevepinero
@@ -2055,7 +2068,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/clemir">
 				<img src="https://avatars.githubusercontent.com/u/1380496?s=72&u=860439ca9ae6c6a8c7ac98d9b5c1db3e351a8028&v=4" width="24" alt="Avatar of clemir"> clemir
@@ -2068,7 +2081,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/CADSV">
 				<img src="https://avatars.githubusercontent.com/u/47164433?s=72&u=7c60fafd2a991caa0b5644c5d45c54a8222f44a1&v=4" width="24" alt="Avatar of CADSV"> CADSV
@@ -2078,19 +2091,6 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>Avila Tek </td>
 		<td>No Twitter Username</td>
 		<td>Caracas, Venezuela</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/yulicwan">
-				<img src="https://avatars.githubusercontent.com/u/20564637?s=72&u=ef24b1138222364060f1e9e3be18394923c5b7bd&v=4" width="24" alt="Avatar of yulicwan"> yulicwan
-			</a><br/>
-			Yuli 
-		</td>
-		<td>Cletec </td>
-		<td>No Twitter Username</td>
-		<td>Caracas</td>
 		<td>42</td>
 	</tr>
 	<tr>

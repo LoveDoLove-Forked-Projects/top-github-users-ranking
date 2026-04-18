@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" alt="Venezuela">
 </a>
 
-The `public contributions` and `private contributions` by users in Venezuela on `2026/4/18 4:40 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
+The `public contributions` and `private contributions` by users in Venezuela on `2026/4/18 5:05 PM UTC`. This list contains users from `Venezuela` and cities `Caracas` `Maracay` `Maracaibo` `Guayana-city`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -228,8 +228,8 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
-		<td>4472</td>
-		<td>4472</td>
+		<td>4473</td>
+		<td>4473</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -495,7 +495,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td><a href="https://twitter.com/mykeliendo">mykeliendo</a></td>
 		<td>Venezuela</td>
 		<td>270</td>
-		<td>2667</td>
+		<td>2668</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -1013,7 +1013,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>707</td>
-		<td>1676</td>
+		<td>1677</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1321,7 +1321,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td><a href="https://twitter.com/SneyderHack">SneyderHack</a></td>
 		<td>Venezuela</td>
 		<td>278</td>
-		<td>1378</td>
+		<td>1380</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1592,6 +1592,20 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/kbtale">
+				<img src="https://avatars.githubusercontent.com/u/36908755?s=72&u=55b75eb19741a9dafb059f7d1cd82a18b65f5743&v=4" width="24" alt="Avatar of kbtale"> kbtale
+			</a><br/>
+			Carlos Bolívar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>1214</td>
+		<td>1223</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/albertogg">
 				<img src="https://avatars.githubusercontent.com/u/451539?s=72&v=4" width="24" alt="Avatar of albertogg"> albertogg
 			</a><br/>
@@ -1604,7 +1618,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>1222</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/Jrgil20">
 				<img src="https://avatars.githubusercontent.com/u/131034722?s=72&u=0faec34ef3334fab4373b2d663fc39ef7bd75401&v=4" width="24" alt="Avatar of Jrgil20"> Jrgil20
@@ -1616,20 +1630,6 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>Caracas Venezuela </td>
 		<td>1063</td>
 		<td>1222</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
-			<a href="https://github.com/kbtale">
-				<img src="https://avatars.githubusercontent.com/u/36908755?s=72&u=55b75eb19741a9dafb059f7d1cd82a18b65f5743&v=4" width="24" alt="Avatar of kbtale"> kbtale
-			</a><br/>
-			Carlos Bolívar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>1212</td>
-		<td>1221</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1718,20 +1718,6 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/Rcontre360">
-				<img src="https://avatars.githubusercontent.com/u/69065663?s=72&v=4" width="24" alt="Avatar of Rcontre360"> Rcontre360
-			</a><br/>
-			0xR360
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Caracas, Distrito Capital, Venezuela</td>
-		<td>927</td>
-		<td>1172</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
 			<a href="https://github.com/joerod1">
 				<img src="https://avatars.githubusercontent.com/u/26337790?s=72&u=e044080c1ebd95969db90c9d56600ba2647e385e&v=4" width="24" alt="Avatar of joerod1"> joerod1
 			</a><br/>
@@ -1741,6 +1727,20 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Venezuela</td>
 		<td>2</td>
+		<td>1174</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/Rcontre360">
+				<img src="https://avatars.githubusercontent.com/u/69065663?s=72&v=4" width="24" alt="Avatar of Rcontre360"> Rcontre360
+			</a><br/>
+			0xR360
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Caracas, Distrito Capital, Venezuela</td>
+		<td>927</td>
 		<td>1172</td>
 	</tr>
 	<tr>
@@ -2651,7 +2651,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td><a href="https://twitter.com/gabodeveloper_">gabodeveloper_</a></td>
 		<td>Valencia, Venezuela</td>
 		<td>39</td>
-		<td>760</td>
+		<td>761</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -3868,8 +3868,8 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Cue2g">Cue2g</a></td>
 		<td>Venezuela</td>
-		<td>55</td>
-		<td>468</td>
+		<td>50</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>270</td>
@@ -4154,6 +4154,20 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/villocan">
+				<img src="https://avatars.githubusercontent.com/u/59518828?s=72&u=e07f9b5e3526741cf944759bf6c2e5891cca682a&v=4" width="24" alt="Avatar of villocan"> villocan
+			</a><br/>
+			Cesar Villalobos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/villocan">villocan</a></td>
+		<td>Venezuela</td>
+		<td>2</td>
+		<td>425</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/leanaraque">
 				<img src="https://avatars.githubusercontent.com/u/118614543?s=72&u=8d18a6640ff85694cb133eb6e3e92564469476c7&v=4" width="24" alt="Avatar of leanaraque"> leanaraque
 			</a><br/>
@@ -4164,20 +4178,6 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>Building insight with ♥ From Venezuela - Argentina to the world</td>
 		<td>34</td>
 		<td>420</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/villocan">
-				<img src="https://avatars.githubusercontent.com/u/59518828?s=72&u=e07f9b5e3526741cf944759bf6c2e5891cca682a&v=4" width="24" alt="Avatar of villocan"> villocan
-			</a><br/>
-			Cesar Villalobos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/villocan">villocan</a></td>
-		<td>Venezuela</td>
-		<td>1</td>
-		<td>418</td>
 	</tr>
 	<tr>
 		<td>292</td>
@@ -4457,7 +4457,7 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Calabozo, estado Guárico, Venezuela</td>
 		<td>33</td>
-		<td>366</td>
+		<td>367</td>
 	</tr>
 	<tr>
 		<td>312</td>
@@ -5148,6 +5148,20 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 	<tr>
 		<td>361</td>
 		<td>
+			<a href="https://github.com/Rick-torrellas">
+				<img src="https://avatars.githubusercontent.com/u/75484605?s=72&u=96fbb6c88c1a8f26c5301933c6cc6790adc2aaae&v=4" width="24" alt="Avatar of Rick-torrellas"> Rick-torrellas
+			</a><br/>
+			rick-codes
+		</td>
+		<td>Full-time Open-sourcerer </td>
+		<td>No Twitter Username</td>
+		<td>Venezuela</td>
+		<td>255</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
 			<a href="https://github.com/slayerfat">
 				<img src="https://avatars.githubusercontent.com/u/7544518?s=72&u=719e09c7812ec494062e3e93599a95f69af27a42&v=4" width="24" alt="Avatar of slayerfat"> slayerfat
 			</a><br/>
@@ -5158,20 +5172,6 @@ There are `981 users`  in Venezuela. You need at least `11 followers` to be on t
 		<td>Venezuela</td>
 		<td>0</td>
 		<td>255</td>
-	</tr>
-	<tr>
-		<td>362</td>
-		<td>
-			<a href="https://github.com/Rick-torrellas">
-				<img src="https://avatars.githubusercontent.com/u/75484605?s=72&u=96fbb6c88c1a8f26c5301933c6cc6790adc2aaae&v=4" width="24" alt="Avatar of Rick-torrellas"> Rick-torrellas
-			</a><br/>
-			rick-codes
-		</td>
-		<td>Full-time Open-sourcerer </td>
-		<td>No Twitter Username</td>
-		<td>Venezuela</td>
-		<td>254</td>
-		<td>254</td>
 	</tr>
 	<tr>
 		<td>363</td>
