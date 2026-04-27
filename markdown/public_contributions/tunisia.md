@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `public contributions` by users in Tunisia on `2026/4/27 6:19 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `public contributions` by users in Tunisia on `2026/4/27 7:42 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `675 cities` can be found [here](https://github.com/xiv3r/top-github-users-ranking).
 
@@ -141,7 +141,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0x4D424D">0x4D424D</a></td>
 		<td>Tunisia</td>
-		<td>7946</td>
+		<td>7948</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -297,7 +297,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>@jobflow-io </td>
 		<td><a href="https://twitter.com/foundmalek">foundmalek</a></td>
 		<td>Tunisia, Monastir</td>
-		<td>1046</td>
+		<td>1048</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -336,7 +336,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>@softylines </td>
 		<td><a href="https://twitter.com/MohamadRejeb">MohamadRejeb</a></td>
 		<td>Tunisia</td>
-		<td>971</td>
+		<td>975</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -427,7 +427,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>Day Truck </td>
 		<td><a href="https://twitter.com/Jaafar_harabiii">Jaafar_harabiii</a></td>
 		<td>Tunisia</td>
-		<td>785</td>
+		<td>791</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -869,7 +869,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>@nooqta </td>
 		<td><a href="https://twitter.com/anis_marrouchi">anis_marrouchi</a></td>
 		<td>Tunis, Tunisia</td>
-		<td>454</td>
+		<td>456</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -926,19 +926,6 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>64</td>
 		<td>
-			<a href="https://github.com/nevermind78">
-				<img src="https://avatars.githubusercontent.com/u/45246688?s=72&u=7c4a1eac996d4908253723a4ae4471853e99648d&v=4" width="24" alt="Avatar of nevermind78"> nevermind78
-			</a><br/>
-			Abdallah Khemais
-		</td>
-		<td>Isitcom </td>
-		<td>No Twitter Username</td>
-		<td>Sousse</td>
-		<td>425</td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>
 			<a href="https://github.com/anis-mselmi">
 				<img src="https://avatars.githubusercontent.com/u/209621762?s=72&u=7d85fcd519ab9ec4fc66c303208afdb1ea2f1ad6&v=4" width="24" alt="Avatar of anis-mselmi"> anis-mselmi
 			</a><br/>
@@ -947,6 +934,19 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>École Polytechnique De Sousse<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tunisie,Sousse</td>
+		<td>430</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/nevermind78">
+				<img src="https://avatars.githubusercontent.com/u/45246688?s=72&u=7c4a1eac996d4908253723a4ae4471853e99648d&v=4" width="24" alt="Avatar of nevermind78"> nevermind78
+			</a><br/>
+			Abdallah Khemais
+		</td>
+		<td>Isitcom </td>
+		<td>No Twitter Username</td>
+		<td>Sousse</td>
 		<td>425</td>
 	</tr>
 	<tr>
@@ -1467,7 +1467,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>tunisia</td>
-		<td>238</td>
+		<td>241</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -2057,19 +2057,6 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/krifa-med-aziz">
-				<img src="https://avatars.githubusercontent.com/u/87083945?s=72&u=02aa9d8c419761be4ab4b07099c81224ed10ebaf&v=4" width="24" alt="Avatar of krifa-med-aziz"> krifa-med-aziz
-			</a><br/>
-			Mohamed Aziz Krifa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tunisia</td>
-		<td>161</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
 			<a href="https://github.com/not-lain">
 				<img src="https://avatars.githubusercontent.com/u/70411813?s=72&u=183d7b41176aaf02d98d8e9931683de7540d8ad6&v=4" width="24" alt="Avatar of not-lain"> not-lain
 			</a><br/>
@@ -2081,7 +2068,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/Safemood">
 				<img src="https://avatars.githubusercontent.com/u/49455868?s=72&u=28ef12d80dfe6a7730513c0c31423792d7926a87&v=4" width="24" alt="Avatar of Safemood"> Safemood
@@ -2094,7 +2081,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/ayhem18">
 				<img src="https://avatars.githubusercontent.com/u/71767487?s=72&u=88e73ea42a16b64564152f1d15b6af731d443622&v=4" width="24" alt="Avatar of ayhem18"> ayhem18
@@ -2107,7 +2094,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/JustPowerful">
 				<img src="https://avatars.githubusercontent.com/u/50250163?s=72&u=aca817435654330a0cf15089f53beaf33b3b812f&v=4" width="24" alt="Avatar of JustPowerful"> JustPowerful
@@ -2120,7 +2107,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/hamdaouiwassim">
 				<img src="https://avatars.githubusercontent.com/u/26650981?s=72&u=09f3d607487a9222e3c992e43d1b582ae88349a5&v=4" width="24" alt="Avatar of hamdaouiwassim"> hamdaouiwassim
@@ -2133,7 +2120,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/oussemamansouri">
 				<img src="https://avatars.githubusercontent.com/u/99543574?s=72&u=549755c96a82dc3c87b61a0755e85cad1f92e428&v=4" width="24" alt="Avatar of oussemamansouri"> oussemamansouri
@@ -2146,7 +2133,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/saaya-code">
 				<img src="https://avatars.githubusercontent.com/u/57566725?s=72&u=3dcf47fabfe744ec80353d84b295b01303d5c490&v=4" width="24" alt="Avatar of saaya-code"> saaya-code
@@ -2159,7 +2146,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/fedi-nabli">
 				<img src="https://avatars.githubusercontent.com/u/64886531?s=72&u=058bc0d75f86d6d56cdedd637b9b1c26ff72433f&v=4" width="24" alt="Avatar of fedi-nabli"> fedi-nabli
@@ -2172,7 +2159,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/BenMabroukAya">
 				<img src="https://avatars.githubusercontent.com/u/98154395?s=72&u=22d3db26abb94aee95f824633a9ba2c32d990c65&v=4" width="24" alt="Avatar of BenMabroukAya"> BenMabroukAya
@@ -2183,6 +2170,19 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Douz, Tunisia</td>
 		<td>158</td>
+	</tr>
+	<tr>
+		<td>160</td>
+		<td>
+			<a href="https://github.com/krifa-med-aziz">
+				<img src="https://avatars.githubusercontent.com/u/87083945?s=72&u=02aa9d8c419761be4ab4b07099c81224ed10ebaf&v=4" width="24" alt="Avatar of krifa-med-aziz"> krifa-med-aziz
+			</a><br/>
+			Mohamed Aziz Krifa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>157</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2811,6 +2811,19 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 	<tr>
 		<td>209</td>
 		<td>
+			<a href="https://github.com/Oumeima-IbnElfekih">
+				<img src="https://avatars.githubusercontent.com/u/58104890?s=72&v=4" width="24" alt="Avatar of Oumeima-IbnElfekih"> Oumeima-IbnElfekih
+			</a><br/>
+			Oumeima IbnElfekih
+		</td>
+		<td>Esprit  </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
 			<a href="https://github.com/aifia105">
 				<img src="https://avatars.githubusercontent.com/u/73180121?s=72&u=9dadf60e6a3fbc78fea6a3137af08eec3cfc3669&v=4" width="24" alt="Avatar of aifia105"> aifia105
 			</a><br/>
@@ -2822,7 +2835,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/Majdi-Zlitni">
 				<img src="https://avatars.githubusercontent.com/u/60318289?s=72&u=f1e2790557d7445da1f26f1a8ce40d11eed5194a&v=4" width="24" alt="Avatar of Majdi-Zlitni"> Majdi-Zlitni
@@ -2835,7 +2848,7 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Moanesbbr">
 				<img src="https://avatars.githubusercontent.com/u/78867521?s=72&u=f09df5e75f2a7bbf23b15bbaccbfd9ce888ce41f&v=4" width="24" alt="Avatar of Moanesbbr"> Moanesbbr
@@ -2846,19 +2859,6 @@ There are `978 users`  in Tunisia. You need at least `15 followers` to be on thi
 		<td><a href="https://twitter.com/Moanesbbr">Moanesbbr</a></td>
 		<td>Tunisia</td>
 		<td>105</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/Oumeima-IbnElfekih">
-				<img src="https://avatars.githubusercontent.com/u/58104890?s=72&v=4" width="24" alt="Avatar of Oumeima-IbnElfekih"> Oumeima-IbnElfekih
-			</a><br/>
-			Oumeima IbnElfekih
-		</td>
-		<td>Esprit  </td>
-		<td>No Twitter Username</td>
-		<td>Tunisia</td>
-		<td>104</td>
 	</tr>
 	<tr>
 		<td>213</td>
